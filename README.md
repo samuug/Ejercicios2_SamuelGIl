@@ -17,7 +17,7 @@ Inicio
 6   escribir("a = " & a & " y b = " & b)  
 Fin 
 
-__Solución__  
+__Solución:__  
 1: a:3, b:0  
 2: a:3, b:0  
 3: a:3, b:2  
@@ -41,7 +41,7 @@ Inicio
    escribir(valor1 & " # " & CST)  
 Fin 
 
-__Solución__  
+__Solución:__  
 Test , valor2 = 8  
 4 # 49,78  
 
@@ -60,7 +60,7 @@ Inicio
 6   escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
 Fin 
 
-__Solución__  
+__Solución:__  
 1: Preguntar por teclado el valor de valor1  
 2: Preguntar por teclado el valor de valor2  
 3: Comentario  
@@ -83,5 +83,5 @@ __240__
 
 Se ha desplazado a una velocidad de 92,5 km/h.
 
-__Solución__  
+__Solución:__  
 ejercicio4.java
