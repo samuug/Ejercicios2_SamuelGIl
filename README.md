@@ -1,24 +1,32 @@
 # Ejercicios2_SamuelGIl
 
-##Nota:
-Mi repositorio es: 
+## Nota:
+Mi repositorio es: https://github.com/samuug/Ejercicios2_SamuelGIl.git
 
-##Enunciado:
-__1. Valores de las variables__
-__¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?__
+## Enunciado:
+### 1. Valores de las variables__  
+__¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?__  
 
 Algo ValoresDeLasVariables  
 variable a, b: entero  
 Inicio  
-   a <- 3  
-   escribir("a = " & a)  
-   b<-a+5  
-   escribir("a = " & a & " y b = " & b)  
-   a<-7  
-   escribir("a = " & a & " y b = " & b)  
+1   a <- 3  
+2   escribir("a = " & a)  
+3   b<-a+5  
+4   escribir("a = " & a & " y b = " & b)  
+5   a<-7  
+6   escribir("a = " & a & " y b = " & b)  
 Fin 
 
-2. ¿Qué se muestra?
+__Solución__  
+1: a:3, b:0
+2: a:3, b:0
+3: a:3, b:2
+4: a:3, b:2
+5: a:7, b:-2
+6: a:7, b:-2
+
+### 2. ¿Qué se muestra?
 
 ¿Qué veremos al ejecutar el siguiente algoritmo?
 
@@ -35,7 +43,7 @@ Inicio
    escribir(valor1 & " # " & CST)  
 Fin 
 
-3. ¿Qué hace?
+### 3. ¿Qué hace?
 
 ¿Qué hace este algoritmo?
 
@@ -51,7 +59,7 @@ Inicio
    escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
 Fin 
 
-4. Velocidad media
+### 4. Velocidad media
 
 Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
 
@@ -66,3 +74,6 @@ Introduzca el tiempo del recorrido (min).
 240
 
 Se ha desplazado a una velocidad de 92,5 km/h.
+
+__Solución__
+ejercicio4.java
