@@ -28,7 +28,7 @@ __Solución__
 ### 2. ¿Qué se muestra?
 __¿Qué veremos al ejecutar el siguiente algoritmo?__
 
-Algo QueVeremos 
+Algo QueVeremos  
 #¿Qué veremos al ejecutar el siguiente algoritmo?  
 Variable valor1, valor2: entero  
 Variable cadena1: texto  
@@ -75,11 +75,11 @@ A continuación, se muestra un ejemplo de posibles visualizaciones y entradas du
 
 Introduzca la distancia recorrida (km).
 
-__370
+__370__
 
 Introduzca el tiempo del recorrido (min).
 
-240
+__240__
 
 Se ha desplazado a una velocidad de 92,5 km/h.
 
