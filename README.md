@@ -4,9 +4,8 @@
 Mi repositorio es: https://github.com/samuug/Ejercicios2_SamuelGIl.git
 
 ## Enunciado:
-### 1. Valores de las variables__  
+### 1. Valores de las variables
 __¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?__  
-
 Algo ValoresDeLasVariables  
 variable a, b: entero  
 Inicio  
@@ -19,16 +18,15 @@ Inicio
 Fin 
 
 __Solución__  
-1: a:3, b:0
-2: a:3, b:0
-3: a:3, b:2
-4: a:3, b:2
-5: a:7, b:-2
-6: a:7, b:-2
+1: a:3, b:0  
+2: a:3, b:0  
+3: a:3, b:2  
+4: a:3, b:2  
+5: a:7, b:-2  
+6: a:7, b:-2  
 
 ### 2. ¿Qué se muestra?
-
-¿Qué veremos al ejecutar el siguiente algoritmo?
+__¿Qué veremos al ejecutar el siguiente algoritmo?__
 
 Algo QueVeremos 
 # ¿Qué veremos al ejecutar el siguiente algoritmo?  
@@ -43,31 +41,41 @@ Inicio
    escribir(valor1 & " # " & CST)  
 Fin 
 
-### 3. ¿Qué hace?
+__Solución__  
+Test , valor2 = 8  
+4 # 49,78  
 
-¿Qué hace este algoritmo?
+### 3. ¿Qué hace?
+__¿Qué hace este algoritmo?__  
 
 Algo QueHace  
 # ¿Qué hace este algoritmo?  
 Variable valor1, valor2: real  
 Inicio  
-   valor1 <- enter("Introduza un valor: ")  
-   valor2 <- enter("Introduza otro valor: ")  
-   # tratamiento 
-   valor1 <- valor2  
-   valor2 <- valor1  
-   escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
+1   valor1 <- enter("Introduza un valor: ")  
+2   valor2 <- enter("Introduza otro valor: ")  
+3   # tratamiento 
+4   valor1 <- valor2  
+5   valor2 <- valor1  
+6   escribir("valor1 = " & valor1 & "; valor2 = " & valor2)  
 Fin 
 
-### 4. Velocidad media
+__Solución__  
+1: Preguntar por teclado el valor de valor1  
+2: Preguntar por teclado el valor de valor2  
+3: Comentario  
+4: Iguala el valor1 a valor2  
+5: Iguala el valor2 a valor1 (aunque realmente no cambia su valor porque valor1 en la anterior línea la hemos sobreescrito con el valor de valor2)  
+6: Muestra por pantalla los valores de valor1 y valor2.  
 
-Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.
+### 4. Velocidad media
+__Escriba un algoritmo que calcule la velocidad media de desplazamiento del usuario.__  
 
 A continuación, se muestra un ejemplo de posibles visualizaciones y entradas durante una ejecución del algoritmo (los valores introducidos por el usuario están escritos en negrita y cursiva):
 
 Introduzca la distancia recorrida (km).
 
-370
+__370
 
 Introduzca el tiempo del recorrido (min).
 
@@ -75,5 +83,5 @@ Introduzca el tiempo del recorrido (min).
 
 Se ha desplazado a una velocidad de 92,5 km/h.
 
-__Solución__
+__Solución__  
 ejercicio4.java
