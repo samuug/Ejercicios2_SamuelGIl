@@ -3,7 +3,7 @@
 ## Nota:
 Mi repositorio es: https://github.com/samuug/Ejercicios2_SamuelGIl.git
 
-## Enunciado:
+## Ejercicios 2. El pseudocódigo
 ### 1. Valores de las variables
 __¿Cuáles serán los valores de las variables a y b después de cada línea del siguiente algoritmo?__  
 Algo ValoresDeLasVariables  
